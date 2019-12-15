@@ -13,3 +13,8 @@ WHERE
 
 https://leetcode-cn.com/problems/rising-temperature/
 这道题主要就是DateDiff这个函数 DateDiff(起始日期,结束日期)
+
+
+
+#鸟哥的linux私房菜
+所谓的位指的是cpu一次数据读取的最大量 64位指的是cpu一次能读取64bit的数据。
